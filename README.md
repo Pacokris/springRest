@@ -10,3 +10,13 @@
 # Critères de validation
 
   Toutes les requêtes envoyées vers l'application Spring via Postman (verbes GET, POST, PUT et DELETE) fonctionnent et renvoient des réponses cohérentes
+  
+# Informations supplémentaires pour la correction
+
+Nom de la base de données MySQL : springRest
+
+Nom de l'utilisateur et mot de passe utilisé pour la base de données à saisir dans le fichier application.properties.
+
+Pour la recherche par mot-clé, utiliser un JSON ayant pour clé "keyword": { "keyword": "mot-clé" }.
+
+J'ai rajouté un dossier Postman dans le projet qui contient les captures d'écrans de 3 requêtes.
